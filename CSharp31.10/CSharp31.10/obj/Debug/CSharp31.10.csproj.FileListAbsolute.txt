@@ -1,0 +1,7 @@
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\bin\Debug\CSharp31.10.exe.config
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\bin\Debug\CSharp31.10.exe
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\bin\Debug\CSharp31.10.pdb
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\obj\Debug\CSharp31.10.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\obj\Debug\CSharp31.10.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\obj\Debug\CSharp31.10.exe
+C:\Users\Vadim\source\repos\CSharp31.10\CSharp31.10\obj\Debug\CSharp31.10.pdb
